@@ -1,4 +1,4 @@
-### Hi there 👋
+hola a todos, este es mi repositorio personal donde subo repositorios privados de las formaciones que voy realizando y otro abiertos para mostrar el funcionamiento de las distintas tecnologias que he adquirido soltura en su manejo, espero que alguna de los repositorios pueda seros de ayuda, y no dudeis en escribirme y comentarme mejoras del codigo, son bienvenidas siempre. Hasta la vista.
 
 <!--
 **GabiSBD/GabiSBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
